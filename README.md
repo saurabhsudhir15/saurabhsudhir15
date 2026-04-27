@@ -5,7 +5,7 @@ Currently focused on AI PM - building products and prototypes, not just writing 
 
 ## What I'm building
 
-**[SignalDesk](https://github.com/saurabhsudhir15/SignalDesk)** - Telegram-native AI system that tracks investment signals from financial influencer content. Extracts ticker, stance, and reasoning from YouTube links, PDFs, and posts. Stack: n8n, GPT-4o-mini, Supabase with pgvector. Evaluated at 97% precision across 9 real influencer documents.
+**[SignalDesk](https://github.com/saurabhsudhir15/SignalDesk)** - Telegram-native AI system that tracks investment signals from financial influencer content. Extracts ticker, stance, and reasoning from YouTube links, PDFs, and posts. Stack: n8n, GPT-4o-mini, Supabase with pgvector. Evaluated at 97% precision across real influencer's content.
 
 **[Apply Connect 2.0](https://github.com/saurabhsudhir15/apply-connect-prototype)** - PM case study and interactive prototype for a browser extension that pre-fills ATS application forms using LinkedIn profile data. Includes problem framing, RICE prioritization, PRD, and clickable prototype.
 

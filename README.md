@@ -19,11 +19,3 @@ Contributing the `apply` command to [interview-coach-skill](https://github.com/n
 
 Previously Senior PM at ApplyBoard — platform products, marketplace dynamics, partner ecosystems.
 Open to AI PM roles. [LinkedIn](https://www.linkedin.com/in/saurabh-sudhir/)
-
-
-Contributing the `apply` command to [interview-coach-skill](https://github.com/noamseg/interview-coach-skill) — a Claude Code skill for full-lifecycle interview coaching. [PR #39 open](https://github.com/noamseg/interview-coach-skill/pull/39).
-
-## Background
-
-Previously Senior PM at ApplyBoard — platform products, marketplace dynamics, partner ecosystems.
-Open to AI PM roles. [LinkedIn](https://www.linkedin.com/in/saurabh-sudhir/)

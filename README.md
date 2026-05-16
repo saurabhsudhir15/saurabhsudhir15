@@ -18,4 +18,4 @@ Contributing the `apply` command to [interview-coach-skill](https://github.com/n
 ## Background
 
 Previously Senior PM at ApplyBoard - platform products, marketplace dynamics, partner ecosystems.
-Open to AI PM roles. [LinkedIn](https://www.linkedin.com/in/saurabh-sudhir/)
+Open to AI PM roles. [LinkedIn](https://www.linkedin.com/in/saurabh-sudhir/) | [Resume](https://saurabhsudhir15.github.io/resume)
